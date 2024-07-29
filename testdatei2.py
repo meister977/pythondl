@@ -1,0 +1,2 @@
+b = 'character'
+print(b)
